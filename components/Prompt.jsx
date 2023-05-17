@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 const Prompt = () => {
-  console.log('Prompt')
+  console.log('Prompt');
   return (
     <div>Prompt</div>
-  )
-}
+  );
+};
 
-export default Prompt
+export default Prompt;
